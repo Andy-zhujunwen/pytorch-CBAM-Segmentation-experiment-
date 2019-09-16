@@ -1,3 +1,4 @@
+CBAM modual paper link：https://arxiv.org/abs/1807.06521
 # pytorch-CBAM-Segmentation-experiment-
 try to use CBAM attention modual to Segmentation。
 
